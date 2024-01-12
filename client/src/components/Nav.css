@@ -1,0 +1,26 @@
+body {
+  margin: 0%;
+}
+
+.container {
+  display: flex;
+  background-color: blue;
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  gap: 20px;
+  /* flex-wrap: wrap; */
+}
+
+.main {
+  font-size: 20px;
+  color: white;
+  margin: 5px;
+}
+
+.filler {
+  display: flex;
+  gap: 15px;
+  margin: 10px;
+  color: aliceblue;
+}

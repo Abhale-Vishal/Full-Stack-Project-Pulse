@@ -1,0 +1,22 @@
+.card-container {
+  color: black;
+  border: 2px solid black;
+  width: 250px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.header {
+  margin: 5px;
+}
+
+.count {
+  margin: 5px;
+}
+
+.card-data {
+  display: flex;
+  /* flex-direction: row; */
+  flex-wrap: wrap;
+  gap: 30px;
+}
